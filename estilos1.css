@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(189, 165, 128);
+    color: rgb(143, 68, 68);
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+  }
+  
+  .bord {
+    background-color: rgb(241, 229, 229);
+    color: rgb(159, 143, 143);
+    border: 0px solid rgb(177, 128, 128);
+    padding: 70px;
+  
+  }
+
+  .imagem-redonda {
+    border-radius: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large; 
+}
+
+.corpo{
+    background-color: rgb(50, 29, 32);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: rgb(66, 39, 39);
+    color: rgb(192, 199, 227);
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
+    
+}
+
+a{
+    color:rgb(111, 70, 70)
+}
