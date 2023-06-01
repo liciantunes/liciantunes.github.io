@@ -59,3 +59,10 @@ a{
   color: rgb(189, 135, 197);
 }
 
+.city {
+  background-color: rgb(58, 32, 65);
+  color: rgb(255, 254, 254);
+  border: 2px solid rgb(226, 224, 224);
+  margin: 20px;
+  padding: 20px;
+}
