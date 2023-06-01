@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(209, 192, 167);
-    color: rgb(143, 68, 68);
+    background-color: rgb(213, 194, 165);
+    color: rgb(246, 246, 246);
     font-family: 'Work Sans', sans-serif;
     font-size: 25px;
   }
   
   .bord {
     background-color: rgb(241, 229, 229);
-    color: rgb(159, 143, 143);
-    border: 0px solid rgb(177, 128, 128);
+    color: rgb(255, 249, 249);
+    border: 0px solid rgb(195, 0, 0);
     padding: 70px;
   
   }
@@ -20,23 +20,42 @@ body{
 }
 
 .corpo{
-    background-color: rgb(50, 29, 32);
+    background-color: rgb(48, 33, 35);
     text-align: center;
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 footer{
-    background-color: rgb(66, 39, 39);
+    background-color: rgb(58, 32, 65);
     color: rgb(192, 199, 227);
     text-align: center;
     position: fixed;
     left: 0;
     bottom: 0;
-    width: 100%
-    
+    width: 100%;  
 }
 
 a{
-    color:rgb(111, 70, 70)
+    color:rgb(231, 130, 130)
 }
+
+.button {
+  background-color: #9451a3; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button5 {border-radius: 50%;
+}
+
+.piscar:hover{
+  color: rgb(189, 135, 197);
+}
+
