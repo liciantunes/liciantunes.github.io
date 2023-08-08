@@ -39,7 +39,7 @@ body {
   align-items: center;
   max-width: 600px;
   gap: 130px;
-  height: 100vh;
+  height: 100%;
   position: relative;
   margin-left: 125px;
 }
